@@ -1,4 +1,4 @@
 mytest
 ======
 
-just test
+just test it
